@@ -40,7 +40,7 @@ do {
     $i++;
     $multiplicacion=$i*$j;  
     echo "<br>",$i," x ",$j," = ",$multiplicacion;
-       } while ($i <= 11);
+       } while ($i <= 11) ;
 
 
 ?>
