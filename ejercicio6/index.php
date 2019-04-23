@@ -76,8 +76,7 @@ if ($ltr=='a','e','i','o','u') {
 <!DOCTYPE html>
 <html>
 	<head>
-        <title>Ejercicio. CU00828B</title>
-		<meta charset="utf-8">
+        <meta charset="utf-8">
 	</head>
 
     <form method="post">
